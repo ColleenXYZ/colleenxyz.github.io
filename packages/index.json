@@ -15,9 +15,7 @@
                 "name": "ColleenXYZ",
                 "url": "https://github.com/ColleenXYZ/BlendTreeInject"
             },
-            "vpmDependencies": {
-                "com.vrchat.avatars": ">=3.7.0"
-            },
+            "vpmDependencies": {},
             "hideInEditor": false,
             "license": "MIT",
             "unity": "2022.3",
